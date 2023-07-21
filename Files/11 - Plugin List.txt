@@ -1,0 +1,28 @@
+--- Theme Plugins ---
+
+Astra Widgets (Brainstorm Force)
+Elementor Header & Footer Builder (Brainstorm Force, Nikhil Chavan)
+Elementor (Elementor.com)
+One Click Demo Import (OCDI)
+
+--- ECommerce Plugins ---
+
+WooCommerce (woocommerce.com)
+WooCommerce Farsi (WooCommerce Farsi)
+CartFlows (CartFlows Inc)
+Checkout Plugins - PayPal for WooCommerce (Checkout Plugins)
+Clicky (Team Yoast)
+Clicky Analytics (Alin Marcu)
+Google Listings and Ads(woocommerce.com)	
+WooCommerce Cart Abandonment Recovery (CartFlows Inc)
+WP Menu Cart (WP Overnight)
+
+--- Page Plugin ---
+
+Duplicate Page (mndpsingh287)
+reCaptcha by BestWebSoft (BestWebSoft)
+WP Reset (WebFactory Ltd)
+WPS Hide Login (WPServeur, NicolasKulka, wpformation)
+Limit Login Attempts (Limit Login Attempts Reloaded)
+bbPress (bbPress Team)
+Theme My Login (Theme My Login)
